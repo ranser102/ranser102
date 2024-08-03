@@ -22,7 +22,7 @@ Non-technical interest: trading options in the stock market.
 - 🌱 I’m currently learning to develop in go.
 - 👯 I’m looking to collaborate on everything k8s.
 - 💬 Ask me anything about CI/CD and GitOps - not sure I'll know everything, but I'll do my best to assist.
-- 📫 How to reach out to me? connect with me on <a href="https://www.linkedin.com/in/eran-sery-devops-enabler/" target="blank">Linkedin</a>.
+- 📫 How to reach out to me? connect with me on <a href="https://www.linkedin.com/in/eran-sery-devops-enabler/" target="_blank">Linkedin</a>.
 
 
 <!--
